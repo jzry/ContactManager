@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/jzry/ContactManager/master/images/stirup.png)
+
 # ContactManager
 Contact Manager is a basic CRUD + Search Application for Contacts!!
 
